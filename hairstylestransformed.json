@@ -1,0 +1,662 @@
+[
+  {
+    "name": "Lace Front Wig",
+    "Image Url": "https://i.pinimg.com/originals/d5/3b/01/d53b014d86a6b6761bf649a0ed813c2b.png",
+    "category": "Beach Wave",
+    "colors": [
+      "#800020",
+      "#DC143C",
+      "#FF1493",
+      "#FF69B4"
+    ]
+  },
+  {
+    "name": "Raw Virgin Hair",
+    "Image Url": "https://i.pinimg.com/originals/57/9f/e5/579fe5ab14187a002f93ae0399fad1d1.jpg",
+    "category": "Custom Wig",
+    "colors": [
+      "#654321",
+      "#8B4513",
+      "#A0522D",
+      "#CD853F"
+    ]
+  },
+  {
+    "name": "Weave Hairstyle",
+    "Image Url": "https://i.pinimg.com/originals/1f/b1/1b/1fb11bea5958235e12d0bd4cde6f14b1.jpg",
+    "category": "Custom Wig",
+    "colors": [
+      "#8B0000",
+      "#DC143C",
+      "#CD5C5C",
+      "#F08080"
+    ]
+  },
+  {
+    "name": "Weave Hairstyle",
+    "Image Url": "https://i.pinimg.com/originals/3a/9e/b4/3a9eb473f387b889ee2fc9388d3b067e.jpg",
+    "category": "Bouncy Curls",
+    "colors": [
+      "#F5F5DC",
+      "#F5DEB3",
+      "#F0E68C",
+      "#FFFFE0"
+    ]
+  },
+  {
+    "name": "Natural Wave",
+    "Image Url": "https://i.pinimg.com/originals/1d/6d/6c/1d6d6c8b6a99caa57f62ecb09805fff8.jpg",
+    "category": "4C Hair",
+    "colors": [
+      "#F5F5DC",
+      "#F5DEB3",
+      "#F0E68C",
+      "#FFFFE0"
+    ]
+  },
+  {
+    "name": "Natural Wave",
+    "Image Url": "https://i.pinimg.com/originals/3d/4e/55/3d4e55181f8bf161b49672b1a3288f13.jpg",
+    "category": "Weave",
+    "colors": [
+      "#8B4513",
+      "#D2691E",
+      "#CD853F",
+      "#DEB887"
+    ]
+  },
+  {
+    "name": "Frontal Wig",
+    "Image Url": "https://i.pinimg.com/originals/e3/85/ce/e385cec56954503ec54ea5282d448996.jpg",
+    "category": "Virgin Bundle",
+    "colors": [
+      "#2F4F4F",
+      "#708090",
+      "#C0C0C0",
+      "#F8F8FF"
+    ]
+  },
+  {
+    "name": "Human Hair Weave",
+    "Image Url": "https://i.pinimg.com/originals/9a/cf/44/9acf44d86335cc6a9e3548c5f6c37364.jpg",
+    "category": "Hair Care",
+    "colors": [
+      "#8B0000",
+      "#DC143C",
+      "#CD5C5C",
+      "#F08080"
+    ]
+  },
+  {
+    "name": "Human Hair Wig",
+    "Image Url": "https://i.pinimg.com/originals/49/4a/bb/494abb8178f46651e2936ad58a0fd6b4.jpg",
+    "category": "Raw Hair",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Human Hair Lace Wig",
+    "Image Url": "https://i.pinimg.com/originals/df/79/4f/df794fdb99f8a268bf27fa5b9cbc2d78.jpg",
+    "category": "Natural Wave",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Raw Virgin Hair",
+    "Image Url": "https://i.pinimg.com/originals/5d/ca/5a/5dca5a0eb5d6e7b9449bed6ca3c7e2ca.jpg",
+    "category": "Lace Front",
+    "colors": [
+      "#8B4513",
+      "#D2691E",
+      "#CD853F",
+      "#DEB887"
+    ]
+  },
+  {
+    "name": "Frontal Wig",
+    "Image Url": "https://i.pinimg.com/originals/cf/67/67/cf676703a0c446e0ec297a74c7a8b261.jpg",
+    "category": "Frontal",
+    "colors": [
+      "#800020",
+      "#DC143C",
+      "#FF1493",
+      "#FF69B4"
+    ]
+  },
+  {
+    "name": "Raw Virgin Hair",
+    "Image Url": "https://i.pinimg.com/originals/5c/5b/a0/5c5ba0bea8d873e2b550dc52f9c4e7da.png",
+    "category": "Hair Care",
+    "colors": [
+      "#F5F5DC",
+      "#F5DEB3",
+      "#F0E68C",
+      "#FFFFE0"
+    ]
+  },
+  {
+    "name": "Natural Curls",
+    "Image Url": "https://i.pinimg.com/originals/86/a8/74/86a87491b72990038cde59ccd72876f1.jpg",
+    "category": "4C Hair",
+    "colors": [
+      "#191970",
+      "#4169E1",
+      "#87CEEB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Bouncy Curls",
+    "Image Url": "https://i.pinimg.com/originals/c8/42/1a/c8421abca85fc5289a7a5ba9370300af.jpg",
+    "category": "Natural Curls",
+    "colors": [
+      "#8B0000",
+      "#DC143C",
+      "#CD5C5C",
+      "#F08080"
+    ]
+  },
+  {
+    "name": "Frontal Wig",
+    "Image Url": "https://i.pinimg.com/originals/32/1d/a3/321da3a868a2cfcddf12b02ca436be09.jpg",
+    "category": "Natural Curls",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "4C Natural Hair",
+    "Image Url": "https://i.pinimg.com/originals/a8/8a/d8/a88ad8fdbe305492f86c5bda3c247b4f.jpg",
+    "category": "Weave",
+    "colors": [
+      "#000000",
+      "#2F2F2F",
+      "#696969",
+      "#A9A9A9"
+    ]
+  },
+  {
+    "name": "Human Hair Weave",
+    "Image Url": "https://i.pinimg.com/originals/a2/cf/37/a2cf370cf43ac46baefc77af0043ae86.jpg",
+    "category": "Natural Curls",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Natural Hair Care",
+    "Image Url": "https://i.pinimg.com/originals/27/3f/f4/273ff46614b6a13b3a742438ce163a34.jpg",
+    "category": "Custom Wig",
+    "colors": [
+      "#654321",
+      "#8B4513",
+      "#A0522D",
+      "#CD853F"
+    ]
+  },
+  {
+    "name": "Frontal Wig",
+    "Image Url": "https://i.pinimg.com/originals/84/1e/61/841e610151c31b497d5915ecf33aaa31.jpg",
+    "category": "Lace Front",
+    "colors": [
+      "#F5F5DC",
+      "#F5DEB3",
+      "#F0E68C",
+      "#FFFFE0"
+    ]
+  },
+  {
+    "name": "Curly Virgin Hair",
+    "Image Url": "https://i.pinimg.com/originals/29/71/13/2971133a92454694c70b1c38ed4a5f58.jpg",
+    "category": "4C Hair",
+    "colors": [
+      "#8B4513",
+      "#D2691E",
+      "#CD853F",
+      "#DEB887"
+    ]
+  },
+  {
+    "name": "Exclusive Hair Bundle",
+    "Image Url": "https://i.pinimg.com/originals/d5/3b/01/d53b014d86a6b6761bf649a0ed813c2b.png",
+    "category": "Lace Wig",
+    "colors": [
+      "#800020",
+      "#DC143C",
+      "#FF1493",
+      "#FF69B4"
+    ]
+  },
+  {
+    "name": "Exclusive Lace Wig",
+    "Image Url": "https://i.pinimg.com/originals/31/98/3c/31983c2ae4390615938f7395709754d7.jpg",
+    "category": "Premium Hair",
+    "colors": [
+      "#654321",
+      "#8B4513",
+      "#A0522D",
+      "#CD853F"
+    ]
+  },
+  {
+    "name": "Luxury Hair Style",
+    "Image Url": "https://i.pinimg.com/originals/9f/04/ed/9f04edc4c162921e7a7a59aa3c66030b.jpg",
+    "category": "Lace Wig",
+    "colors": [
+      "#000000",
+      "#2F2F2F",
+      "#696969",
+      "#A9A9A9"
+    ]
+  },
+  {
+    "name": "Luxury Hair Extensions",
+    "Image Url": "https://i.pinimg.com/originals/f1/e5/5b/f1e55b047394fe2eef750ebdb79ce1d7.jpg",
+    "category": "High-End",
+    "colors": [
+      "#F5F5DC",
+      "#F5DEB3",
+      "#F0E68C",
+      "#FFFFE0"
+    ]
+  },
+  {
+    "name": "High-End Human Hair",
+    "Image Url": "https://i.pinimg.com/originals/32/05/cd/3205cd12704a2671c63e2f9419cba1ef.jpg",
+    "category": "Luxury Wig",
+    "colors": [
+      "#000000",
+      "#2F2F2F",
+      "#696969",
+      "#A9A9A9"
+    ]
+  },
+  {
+    "name": "Exclusive Hair Care",
+    "Image Url": "https://i.pinimg.com/originals/70/d7/c2/70d7c2e3c317ad8b8a1e08354903b4d4.jpg",
+    "category": "Lace Wig",
+    "colors": [
+      "#8B0000",
+      "#DC143C",
+      "#CD5C5C",
+      "#F08080"
+    ]
+  },
+  {
+    "name": "Exclusive Hair Bundle",
+    "Image Url": "https://i.pinimg.com/originals/a5/65/a4/a565a49929effb600a50a151d5311e14.jpg",
+    "category": "Exclusive Hair",
+    "colors": [
+      "#654321",
+      "#8B4513",
+      "#A0522D",
+      "#CD853F"
+    ]
+  },
+  {
+    "name": "Exclusive Hair Care",
+    "Image Url": "https://i.pinimg.com/originals/3d/4e/55/3d4e55181f8bf161b49672b1a3288f13.jpg",
+    "category": "Lace Front",
+    "colors": [
+      "#2F4F4F",
+      "#708090",
+      "#C0C0C0",
+      "#F8F8FF"
+    ]
+  },
+  {
+    "name": "High-End Virgin Hair",
+    "Image Url": "https://i.pinimg.com/originals/8b/3b/ca/8b3bca3b248f867cf433b5273783711a.jpg",
+    "category": "Luxury Hair",
+    "colors": [
+      "#8B0000",
+      "#DC143C",
+      "#CD5C5C",
+      "#F08080"
+    ]
+  },
+  {
+    "name": "Luxury Hair Style",
+    "Image Url": "https://i.pinimg.com/originals/86/72/b1/8672b1e26d7e9c677126fe2c57067cd1.jpg",
+    "category": "Exclusive Hair",
+    "colors": [
+      "#F5F5DC",
+      "#F5DEB3",
+      "#F0E68C",
+      "#FFFFE0"
+    ]
+  },
+  {
+    "name": "Luxury Braids",
+    "Image Url": "https://i.pinimg.com/originals/e3/7c/3f/e37c3ffd98908682d9ffd407d72bf9e3.jpg",
+    "category": "High-End",
+    "colors": [
+      "#191970",
+      "#4169E1",
+      "#87CEEB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Luxury Hair Care",
+    "Image Url": "https://i.pinimg.com/originals/ff/88/28/ff8828b1b39291739de0d70aee584d52.jpg",
+    "category": "Virgin Hair",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Luxury Hair Extensions",
+    "Image Url": "https://i.pinimg.com/originals/94/14/10/941410178d1bdee01d496d07cdec21dc.jpg",
+    "category": "High-End Hair",
+    "colors": [
+      "#800020",
+      "#DC143C",
+      "#FF1493",
+      "#FF69B4"
+    ]
+  },
+  {
+    "name": "Exclusive Hair Bundle",
+    "Image Url": "https://i.pinimg.com/originals/bc/b3/ba/bcb3bad5911f442426b8d37b3a86fa2b.jpg",
+    "category": "Human Hair Wigs",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "High-End Human Hair",
+    "Image Url": "https://i.pinimg.com/originals/56/0e/52/560e52cfef30ae3ed3508f0ea3c20778.jpg",
+    "category": "Lace Wig",
+    "colors": [
+      "#654321",
+      "#8B4513",
+      "#A0522D",
+      "#CD853F"
+    ]
+  },
+  {
+    "name": "Premium Braids",
+    "Image Url": "https://i.pinimg.com/originals/2f/6d/46/2f6d467d3cae6244dafd7686e539ddaf.jpg",
+    "category": "Luxury",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Premium Braids",
+    "Image Url": "https://i.pinimg.com/originals/59/26/86/592686223776b2833793273ad29843de.jpg",
+    "category": "Lace Wig",
+    "colors": [
+      "#DAA520",
+      "#F4A460",
+      "#DEB887",
+      "#F5DEB3"
+    ]
+  },
+  {
+    "name": "Luxury Updo",
+    "Image Url": "https://i.pinimg.com/originals/d5/3b/01/d53b014d86a6b6761bf649a0ed813c2b.png",
+    "category": "Exclusive",
+    "colors": [
+      "#000000",
+      "#2F2F2F",
+      "#696969",
+      "#A9A9A9"
+    ]
+  },
+  {
+    "name": "Chic Ponytail",
+    "Image Url": "https://i.pinimg.com/originals/d7/ce/09/d7ce091e10f9a3952d1d145f00096cf7.jpg",
+    "category": "Exclusive",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Premium Pixie",
+    "Image Url": "https://i.pinimg.com/originals/ab/58/18/ab5818e350d58afe5f8463421fb0d4cb.jpg",
+    "category": "Contemporary",
+    "colors": [
+      "#654321",
+      "#8B4513",
+      "#A0522D",
+      "#CD853F"
+    ]
+  },
+  {
+    "name": "High-End Waves",
+    "Image Url": "https://i.pinimg.com/originals/57/7d/ba/577dbae1339be2db2325c95a801eaf19.jpg",
+    "category": "Modern",
+    "colors": [
+      "#F5F5DC",
+      "#F5DEB3",
+      "#F0E68C",
+      "#FFFFE0"
+    ]
+  },
+  {
+    "name": "Trendsetter Look",
+    "Image Url": "https://i.pinimg.com/originals/f4/0c/cd/f40ccd5d1bb4c9fd70fcb4b112b6167d.jpg",
+    "category": "Elegant",
+    "colors": [
+      "#2F4F4F",
+      "#708090",
+      "#C0C0C0",
+      "#F8F8FF"
+    ]
+  },
+  {
+    "name": "Premium Blowout",
+    "Image Url": "https://i.pinimg.com/originals/71/8b/2f/718b2f44bcc92290a27d012ab4d5978a.jpg",
+    "category": "Designer",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Premium Pixie",
+    "Image Url": "https://i.pinimg.com/originals/51/56/00/515600b76ba9714e04fba4fbe21e1a59.jpg",
+    "category": "Sophisticated",
+    "colors": [
+      "#DAA520",
+      "#F4A460",
+      "#DEB887",
+      "#F5DEB3"
+    ]
+  },
+  {
+    "name": "Designer Layers",
+    "Image Url": "https://i.pinimg.com/originals/2f/01/42/2f0142e24728c2d255b02a7c7470655b.jpg",
+    "category": "Luxury",
+    "colors": [
+      "#2F4F4F",
+      "#708090",
+      "#C0C0C0",
+      "#F8F8FF"
+    ]
+  },
+  {
+    "name": "Premium Blowout",
+    "Image Url": "https://i.pinimg.com/originals/95/21/ea/9521eacbe387208f6c155c6c83dfafc0.jpg",
+    "category": "Elegant",
+    "colors": [
+      "#800020",
+      "#DC143C",
+      "#FF1493",
+      "#FF69B4"
+    ]
+  },
+  {
+    "name": "Chic Ponytail",
+    "Image Url": "https://i.pinimg.com/originals/d4/3f/17/d43f177d0141e369a4ed8bd3e5b335b3.jpg",
+    "category": "Contemporary",
+    "colors": [
+      "#191970",
+      "#4169E1",
+      "#87CEEB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Elegant Updo",
+    "Image Url": "https://i.pinimg.com/originals/64/76/c0/6476c0d455ca14f2dd76928f83871670.png",
+    "category": "Trendsetter",
+    "colors": [
+      "#4B0082",
+      "#8A2BE2",
+      "#9370DB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Glamorous Waves",
+    "Image Url": "https://i.pinimg.com/originals/d9/23/a4/d923a49ea2270ca993bcb57e74b17566.jpg",
+    "category": "Designer",
+    "colors": [
+      "#8B4513",
+      "#D2691E",
+      "#CD853F",
+      "#DEB887"
+    ]
+  },
+  {
+    "name": "Premium Blowout",
+    "Image Url": "https://i.pinimg.com/originals/8b/5f/33/8b5f336d7cdca771feaf7afc074a0d60.jpg",
+    "category": "Contemporary",
+    "colors": [
+      "#2F4F4F",
+      "#708090",
+      "#C0C0C0",
+      "#F8F8FF"
+    ]
+  },
+  {
+    "name": "Trendsetter Look",
+    "Image Url": "https://i.pinimg.com/originals/c1/f8/29/c1f829012279699f8972176bbb75fc6a.jpg",
+    "category": "Exclusive",
+    "colors": [
+      "#000000",
+      "#2F2F2F",
+      "#696969",
+      "#A9A9A9"
+    ]
+  },
+  {
+    "name": "Sophisticated Bun",
+    "Image Url": "https://i.pinimg.com/originals/a8/a4/84/a8a484f133bae44490eb7ec5a57b4bbf.webp",
+    "category": "Fashion Forward",
+    "colors": [
+      "#DAA520",
+      "#F4A460",
+      "#DEB887",
+      "#F5DEB3"
+    ]
+  },
+  {
+    "name": "Elegant Updo",
+    "Image Url": "https://i.pinimg.com/originals/e7/a1/2f/e7a12f36f9d726f1751e33de7fc73432.jpg",
+    "category": "Designer",
+    "colors": [
+      "#8B0000",
+      "#DC143C",
+      "#CD5C5C",
+      "#F08080"
+    ]
+  },
+  {
+    "name": "Contemporary Fade",
+    "Image Url": "https://i.pinimg.com/originals/6a/bf/63/6abf6348698e7512cd894c7380215ae7.jpg",
+    "category": "Exclusive",
+    "colors": [
+      "#8B0000",
+      "#DC143C",
+      "#CD5C5C",
+      "#F08080"
+    ]
+  },
+  {
+    "name": "Elegant Updo",
+    "Image Url": "https://i.pinimg.com/originals/87/78/40/8778400472181e049e102cc250a2af2e.jpg",
+    "category": "Elegant",
+    "colors": [
+      "#800020",
+      "#DC143C",
+      "#FF1493",
+      "#FF69B4"
+    ]
+  },
+  {
+    "name": "Stylish Lob",
+    "Image Url": "https://i.pinimg.com/originals/1f/b4/f8/1fb4f8ab84731476c4172a5f307965ec.jpg",
+    "category": "Sophisticated",
+    "colors": [
+      "#8B0000",
+      "#DC143C",
+      "#CD5C5C",
+      "#F08080"
+    ]
+  },
+  {
+    "name": "Designer Layers",
+    "Image Url": "https://i.pinimg.com/originals/74/09/da/7409da566eb00faa8e26fcbb67ace8b3.jpg",
+    "category": "Contemporary",
+    "colors": [
+      "#191970",
+      "#4169E1",
+      "#87CEEB",
+      "#E6E6FA"
+    ]
+  },
+  {
+    "name": "Contemporary Fade",
+    "Image Url": "https://i.pinimg.com/originals/d7/31/fc/d731fc3e2bd61aaa161b89e6a4096a5f.jpg",
+    "category": "High-End",
+    "colors": [
+      "#8B4513",
+      "#D2691E",
+      "#CD853F",
+      "#DEB887"
+    ]
+  },
+  {
+    "name": "Glamorous Waves",
+    "Image Url": "https://i.pinimg.com/originals/af/1f/f5/af1ff5942af9275ea1dd232d1dcb7328.jpg",
+    "category": "Modern",
+    "colors": [
+      "#191970",
+      "#4169E1",
+      "#87CEEB",
+      "#E6E6FA"
+    ]
+  }
+]
